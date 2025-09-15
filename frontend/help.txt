@@ -1,0 +1,7 @@
+step 1:- npx create-next-app@latest 
+(create new nextjs project)
+
+step 2:- npm i axios
+(used this cmd to call api )
+
+step 3:- create floder 'componets'
